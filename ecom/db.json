@@ -1,0 +1,154 @@
+{
+  "seller": [
+    {
+      "name": "Anil Sidhu",
+      "email": "anil@seller.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Sam Sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "tony",
+      "email": "tony@gmail.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "alena",
+      "email": "alena@test.com",
+      "password": "abc@123",
+      "id": 5
+    },
+    {
+      "name": "Tapish",
+      "email": "t@test.com",
+      "password": "abc@123",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung M40",
+      "price": "5000",
+      "category": "Mobile",
+      "color": "white",
+      "description": "a Samsumg Prodcut",
+      "image": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-m40-1.jpg",
+      "id": 1
+    },
+    {
+      "name": "IPhone 14",
+      "price": "100000",
+      "category": "Mobile",
+      "color": "black",
+      "description": "An apple Product",
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg",
+      "id": 2
+    },
+    {
+      "name": "Nikcon 360",
+      "price": "500000",
+      "category": "camera",
+      "color": "Black",
+      "description": "Its a Nikon company camera",
+      "image": "https://help.rangeme.com/hc/article_attachments/360006928633/what_makes_a_good_product_image.jpg",
+      "id": 3
+    },
+    {
+      "name": "S-Perfume",
+      "price": "5000",
+      "category": "Perfume",
+      "color": "cream",
+      "description": "Its a stone perfume",
+      "image": "https://img.freepik.com/free-photo/skin-care-product-composition_23-2148761389.jpg",
+      "id": 4
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "7500",
+      "category": "Shoes",
+      "color": "Red",
+      "description": "Its a Nike Product ",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "id": 5
+    },
+    {
+      "name": "Addidas Shoe",
+      "price": "5000",
+      "category": "Shoes",
+      "color": "White",
+      "description": "Its a Addidas running shoes",
+      "image": "https://m.media-amazon.com/images/I/51qMYJEfdVL._UY695_.jpg",
+      "id": 6
+    },
+    {
+      "name": "Formal Shoes",
+      "price": "1000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Its a men formal shoes",
+      "image": "https://m.media-amazon.com/images/I/51TxqmHOowL.jpg",
+      "id": 7
+    },
+    {
+      "name": "Belt",
+      "price": "400",
+      "category": "Men Belt",
+      "color": "Brown",
+      "description": "Its a Men's Belt",
+      "image": "https://m.media-amazon.com/images/I/912gy9ku2VL._UX679_.jpg",
+      "id": 8
+    },
+    {
+      "name": "Mac Book Pro",
+      "price": "250000",
+      "category": "Laptop",
+      "color": "Gray",
+      "description": "It's a Apple latest and World Fastes Laptop",
+      "image": "https://m.media-amazon.com/images/I/31+G-o8iK-L._SX342_SY445_.jpg",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 3
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "",
+      "address": "",
+      "contact": "",
+      "totalPrice": 12600,
+      "userId": 1,
+      "id": 1
+    }
+  ]
+}
